@@ -1,6 +1,7 @@
 h1{
   color: blue;
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .header-image{
   width: 200px;
@@ -14,8 +15,12 @@ h2{
 }
 .list{
   color: blue;
+  background: lightgrey;
 }
 .link{
   color: red;
   text-align: center;
+}
+.oversized{
+  font-size: 20px;
 }
