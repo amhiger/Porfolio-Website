@@ -16,11 +16,25 @@ h2{
 .list{
   color: blue;
   background: lightgrey;
+  font-size: 17px;
 }
-.link{
-  color: red;
-  text-align: center;
-}
+
 .oversized{
   font-size: 20px;
+  font-weight: bold; 
+}
+hr{
+  padding: 10px;
+}
+.btn {
+  display: block;
+  font-family: arial, sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  margin: 10px;
+  padding: 6px;
+  border-radius: 6px;
+  background-color: rgb(208, 243, 243);
+  color: red;
+  text-align: center;
 }
